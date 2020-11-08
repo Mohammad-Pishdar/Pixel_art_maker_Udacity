@@ -1,5 +1,5 @@
-## Project Overview  
-We’ll build a single-page web app that allows users to draw pixel art on a customizable canvas! Check out this example:  
+
+We’ll build a single-page web app that allows users to draw pixel art on a customizable canvas! Please check the deployed site here: https://mohammad-pishdar.github.io/Pixel_art_maker_Udacity/
 
 ![Pixel Art Image of Udacity Logo](https://video.udacity-data.com/topher/2017/August/59a4a997_screen-shot-2017-08-22-at-8.33.49-pm/screen-shot-2017-08-22-at-8.33.49-pm.png)  
 
